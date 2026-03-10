@@ -1,6 +1,6 @@
 
 
-# Hello World!, I'm Archit Varshney, a Data Analyst 👋🏼
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hello%20World!%20I'm%20Archit%20Varshney&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35)
 
 
 # 💻 Tech Stack
@@ -26,8 +26,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/archit__varshney_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:Archt.13@gmail.com)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=42&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Analyst;Business+Analyst" />
+</p>
