@@ -26,8 +26,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/archit__varshney_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:Archt.13@gmail.com)
 
-<div align="center" style="border:4px solid #00F7FF; border-radius:15px; padding:25px; box-shadow:0 0 10px #00F7FF, 0 0 25px #00F7FF, 0 0 40px #00F7FF; width:720px; margin:auto;">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=42&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Data+Analyst;Business+Analyst" />
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=⚡+Data+Analyst;⚡+Business+Analyst" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/════════════════════════════════════-00F7FF?style=for-the-badge&logoColor=white"/>
+</p>
