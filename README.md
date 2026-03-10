@@ -26,10 +26,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/archit__varshney_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:Archt.13@gmail.com)
 
+<h1 align="center">⚡ Welcome to My Data World ⚡</h1>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=⚡+Data+Analyst;⚡+Business+Analyst" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Data+Analyst;Business+Analyst" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/════════════════════════════════════-00F7FF?style=for-the-badge&logoColor=white"/>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
